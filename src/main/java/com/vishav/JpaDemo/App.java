@@ -16,5 +16,6 @@ public class App
     	EntityManagerFactory emf = Persistence.createEntityManagerFactory("");
     	EntityManager em = emf.createEntityManager();
      //   Alien a = em.find(Alien.class,4);
+         System.out.println("VISHAV");
     }
 }
