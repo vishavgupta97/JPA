@@ -9,7 +9,7 @@ public class Alien {
 	}
 	public void setAid(int aid) {
 		this.aid = aid;
-		System.out.print("kk");
+		// This System is very nice
 	}
 	public String getAname() {
 		return aname;
@@ -22,12 +22,14 @@ public class Alien {
 	}
 	public void setTech(String tech) {
 		this.tech = tech;
+		System.out.print("VISHAV");
 	}
 	@Override
 	public String toString() {
 		return "Alien [aid=" + aid + ", aname=" + aname + ", tech=" + tech + "]";
 	}
 	
+ 
 	//hi...
 //dhjmdjdj
 	//sdkkd
