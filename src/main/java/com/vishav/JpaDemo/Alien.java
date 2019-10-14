@@ -9,6 +9,7 @@ public class Alien {
 	}
 	public void setAid(int aid) {
 		this.aid = aid;
+		System.out.print("kk");
 	}
 	public String getAname() {
 		return aname;
